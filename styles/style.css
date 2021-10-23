@@ -1,0 +1,111 @@
+#left {
+  background-image: url("back1.png");
+  height: 100vh;
+  width: 80vh;
+  background-repeat: no-repeat;
+  margin: -9px;
+  background-color: #10151b;
+  background-size: 100% 100%;
+}
+#Lcontent {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#txt1 {
+  font-family: "Poppins", sans-serif;
+  color: #4eefe9;
+  font-size: 35px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+#htmllogo {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+#txt2 {
+  color: white;
+  margin-bottom: 10px;
+  font-family: "Dancing Script", cursive;
+  font-size: 25px;
+}
+#getStartedBtn {
+  background-color: #4eefe9;
+  border-color: #4eefe9;
+  border-radius: 25px;
+  padding: 5px 10px;
+  color: rgb(43, 42, 42);
+  font-weight: bold;
+}
+#right1 {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+    background-image: linear-gradient(#1a2129, #10151b);
+}
+
+#txt3 {
+  font-family: "Poppins", sans-serif;
+  color: #4eefe9;
+  font-size: 35px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+input[type="text"] {
+  width: 100%;
+  padding: 5px 20px;
+  margin: 2px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #02635f;
+  margin-bottom: 25px;
+  background-color: #ffffff00;
+}
+#lbl {
+  margin-bottom: 0px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-family: "Abel", sans-serif;
+}
+
+#form1 {
+  text-align: left;
+  margin-top: 25px;
+  border: 1px solid #10151b;
+  padding: 25px;
+  border-radius: 25px;
+  width: 100%;
+  background-color: #ffffff86;
+}
+
+#btnset {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#loginwithText {
+  font-family: "Abel", sans-serif;
+  opacity: 0.8;
+  text-align: center;
+  color: white;
+}
+#loginWith{
+    margin-top: 35px;
+    display: flex;
+    text-align: center;
+    margin-left: 35px;
+    background-color: rgba(255, 255, 255, 0.267);
+    padding: 0px 20px;
+    border-radius: 25px;
+}
+#loginIcn{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 15px;
+}
